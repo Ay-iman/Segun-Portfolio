@@ -2,27 +2,28 @@ const data = [
   {
     id: 1,
     quote:
-      "Ahmed delivered good work on this project and i enjoyed working with him. His communication was top-notch, he met all deadlines, and his skills were reasonable...",
+      "Lekan is professional, detail-oriented, and highly reliable. His work consistently meets the highest standards, and he always ensures client satisfaction.",
     name: "David",
-    profession: "Upwork Client",
+    profession: "Client",
   },
   {
     id: 2,
     quote:
-      "Ahmed is an SEO guru and a super talented content writer, did exactly what we needed and followed all instructions through, i'll be back for more of his...",
+      "As a translator, Lekan exceeded my expectations. His translations were precise and culturally relevant, making my content resonate with the target audience perfectly.",
     name: "Mike",
-    profession: "Upwork Client",
+    profession: "Client",
   },
   {
     id: 3,
-    quote: "Exceptional re-write of my contracts. A must of GIG.",
+    quote:
+      "Lekan's data entry work is outstanding! He delivered accurate and well-organized records ahead of schedule. I'll definitely hire him again.",
     name: "Davis",
     profession: "United States",
   },
   {
     id: 4,
     quote:
-      "Wow. You finished earlier than you said. Everything's modern and beautifully done to the T. Great profession!",
+      "Wow. You finished earlier than you said. Everything's perfect and beautifully done to the T. Great profession!",
     name: "Richard",
     profession: "Kazakhstan",
   },
@@ -35,15 +36,15 @@ const data = [
   {
     id: 6,
     quote:
-      "Ahmed is an experienced writer with an engaging writing style. Thanks for your great input.",
+      "Lekan is an exceptional Virtual Assistant with excellent organizational skills. He streamlined my tasks effortlessly and kept everything running smoothly. Highly recommended",
     name: "Evans",
-    profession: "Upwork Client",
+    profession: "Client",
   },
   {
     id: 7,
     quote: "Keep doing great stuff, dear! Nicely executed!",
     name: "Ali",
-    profession: "Upwork Client",
+    profession: "Client",
   },
 ];
 

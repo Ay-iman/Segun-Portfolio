@@ -1,50 +1,48 @@
 const data = [
   {
     id: 1,
-    tittle: "SEO Articles Writing:",
-    question: "How do you conduct keyword research for SEO articles?",
+    tittle: "Expert Virtual Assistant:",
+    question: "How do you ensure tasks are managed efficiently?",
     answer:
-      " I utilize various keyword research tools and techniques to identify relevant and high-ranking keywords. This involves analyzing search volumes, competition levels, and identifying long-tail keywords that align with the client's target audience and goals.",
+      " I utilize task management tools and proven workflows to organize and prioritize tasks effectively. By staying in constant communication with clients, I ensure deadlines are met and projects are completed to satisfaction.",
   },
   {
     id: 2,
-    tittle: "SEO Articles Writing:",
-    question:
-      "How do you ensure the articles are optimized for search engines?",
+    tittle: "Expert Virtual Assistant:",
+    question: "How do you streamline administrative tasks?",
     answer:
-      "I carefully incorporate the identified keywords naturally and strategically within the content. This includes placing them in titles, headings, subheadings, and throughout the body of the article. I also pay attention to factors like meta descriptions, formatting, readability, and grammatical accuracy to optimize the articles for search engines. ",
+      "I handle scheduling, email management, and document organization with precision, using automation tools where necessary. This minimizes errors and saves time, allowing clients to focus on core business operations.",
   },
   {
     id: 3,
-    tittle: "Website Content Writing:",
-    question:
-      "How do you ensure the website content is engaging and aligned with the client's goals?",
+    tittle: "Expert Data Entry:",
+    question: "How do you maintain accuracy in data entry?",
     answer:
-      "NI work closely with the client to understand their brand, target audience, and specific goals. By conducting thorough research, I develop informative and engaging content that resonates with the target audience, highlights the unique selling points of the client's products or services, and encourages user interaction through persuasive calls-to-action.",
+      "I cross-check all entries multiple times and use error-checking tools to ensure data is accurate and consistent. I am detail-oriented, which helps me deliver error-free results every time.",
   },
   {
     id: 4,
-    tittle: "Website Content Writing:",
-    question: "Do you optimize website content for search engines?",
+    tittle: "Expert Data Entry:",
+    question: "How do you manage large datasets efficiently?",
     answer:
-      " Yes, I optimize the website content by incorporating relevant keywords naturally throughout the text. This helps improve search engine visibility while maintaining readability and user-friendliness.",
+      " I organize data systematically, using spreadsheets and database management tools to sort, categorize, and store information. This ensures data is accessible and easy to retrieve whenever needed.",
   },
   {
     id: 5,
-    tittle: "Article Rewriting:",
-    question: "What is the process of article rewriting?",
+    tittle: "Expert Translator:",
+    question:
+      "How do you ensure translations are accurate and culturally relevant??",
     answer:
-      " Article rewriting involves paraphrasing and restructuring existing articles while maintaining the core message and integrity of the original piece. I enhance readability, clarity, and coherence to create unique and original content. Additionally, I optimize the rewritten articles for SEO by incorporating relevant keywords to improve search engine visibility.",
+      " I thoroughly analyze the source material and consider the cultural context of the target audience. By maintaining the tone and intent of the original content, I deliver translations that are both precise and relatable.",
   },
   {
     id: 6,
-    tittle: "Article Rewriting:",
-    question:
-      "Can you rewrite articles while retaining the original author's voice?",
+    tittle: "Expert Translator:",
+    question: "What types of documents do you translate?",
     answer:
-      "Yes, I strive to maintain the original author's voice whenever possible. By understanding the unique tone and style of the original content, I ensure that the rewritten articles align with the desired voice while improving the overall quality.",
+      "I translate a wide range of materials, including business documents, emails, reports, marketing content, and more. Each project is tailored to the client’s specific needs.",
   },
-  {
+  /*  {
     id: 7,
     tittle: "Proofreading and Editing:",
     question: "What does your proofreading and editing service involve?",
@@ -87,7 +85,7 @@ const data = [
       "How does on-page optimization contribute to better search engine rankings?",
     answer:
       " On-page optimization ensures that the website's elements are structured and presented in a way that search engines can easily understand and index. By incorporating relevant keywords, optimizing meta tags, and improving user experience, on-page optimization helps search engines recognize the relevance and value of the website's content, which can positively impact search engine rankings.",
-  },
+  }, */
 ];
 
 export default data;

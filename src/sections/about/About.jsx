@@ -1,4 +1,4 @@
-import AboutImage from "../../assets/about.png";
+import AboutImage from "../../assets/about.jpg";
 import data from "./data";
 import Card from "../../components/Card";
 import "./about.css";
@@ -9,7 +9,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__left">
           <div className="about__portrait">
-            <img src={AboutImage} alt="About Image" />
+            <img src={AboutImage} alt="About " />
           </div>
         </div>
         <div className="about__right">
@@ -24,29 +24,26 @@ const About = () => {
             ))}
           </div>
           <p>
-            I'm a qualified and experienced content writer, proofreader, and SEO
-            specialist. I am a full-time freelancer with over five years of
-            experience editing, proofreading, and writing articles, blogs, and
-            website content.
+            I am a qualified and experienced Virtual Assistant, Data Entry
+            Specialist, and Translator. I am a full-time freelancer with over
+            five years of experience managing administrative tasks, ensuring
+            accurate data entry, and delivering high-quality translations.
           </p>
           <p>
-            I graduated from university with a degree in English Literature and
-            Creative Writing. I am an avid writer who can carve out ANYTHING
-            with words.
+            With a keen eye for detail and excellent organizational skills, I
+            handle diverse projects efficiently and effectively. I’ve supported
+            businesses by streamlining operations, maintaining flawless records,
+            and providing translations that meet the highest standards of
+            accuracy and cultural relevance.
           </p>
           <p>
-            I've written SEO-optimized articles that have helped my clients'
-            websites rank high on Google. I also perform On-Page SEO with the
-            Rankmath and Yoast plugins.
+            You can rely on me for expert virtual assistance, accurate data
+            entry, reliable translations, efficient email management, and
+            seamless administrative support.
           </p>
           <p>
-            You can put your trust in me for SEO-content optimization, web
-            content, academic writing, excellent editing, blog articles,
-            standard reviews, and report writing.
-          </p>
-          <p>
-            I respond quickly to emails from customers and guarantee complete
-            satisfaction with each order.
+            I respond quickly to client inquiries and guarantee complete
+            satisfaction with every project I undertake.
           </p>
         </div>
       </div>

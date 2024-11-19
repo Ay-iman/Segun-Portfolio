@@ -1,4 +1,4 @@
-import HeaderImage from "../../assets/header.png";
+import HeaderImage from "../../assets/header.jpg";
 import data from "./data";
 import "./header.css";
 
@@ -9,20 +9,23 @@ const Header = () => {
         <div className="header__profile">
           <img src={HeaderImage} alt="Header Portait" />
         </div>
-        <h3>Rabiu Segun</h3>
+        <h3>Rabiu Lekan</h3>
         <p>
-          I'm a qualified and competent content writer, proofreader, and SEO
-          specialist. I am a full-time freelancer with more than five years of
-          experience in editing, proofreading, and writing articles, blogs, and
-          website content.
+          I am a skilled and reliable Virtual Assistant, Data Entry Specialist,
+          and Translator with years of experience delivering exceptional
+          results. As a dedicated full-time freelancer, I excel in managing
+          administrative tasks, ensuring accurate and efficient data handling,
+          and providing precise translations that bridge language barriers. Let
+          me help you stay organized, boost productivity, and achieve your goals
+          seamlessly.
         </p>
         <div className="header__cta">
           <a href="#contact" className="btn primary">
             Let's Talk
           </a>
-          <a href="#portfolio" className="btn light">
+          {/* <a href="#portfolio" className="btn light">
             My Work
-          </a>
+          </a> */}
         </div>
         <div className="header__socials">
           {data.map((item) => (
